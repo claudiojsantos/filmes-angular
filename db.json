@@ -159,6 +159,36 @@
       "urlIMDb": "https://www.imdb.com/title/tt8633462/?ref_=hm_fanfav_tt_6_pd_fp1",
       "genero": "opcao",
       "id": 18
+    },
+    {
+      "titulo": "Tenet",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt6723592/?ref_=hm_fanfav_tt_8_pd_fp1",
+      "genero": "opcao",
+      "id": 19
+    },
+    {
+      "titulo": "Lupin",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNzRlNGUzMmEtYTg0Ni00N2U2LTg4YWEtNDdlNmMwYjBlZDQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy famil",
+      "nota": 7.6,
+      "urlIMDb": "https://www.imdb.com/title/tt2531336/?ref_=hm_fanfav_tt_7_pd_fp1",
+      "genero": "opcao",
+      "id": 20
+    },
+    {
+      "titulo": "Soul",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
+      "nota": 8.1,
+      "urlIMDb": "https://www.imdb.com/title/tt2948372/?ref_=hm_fanfav_tt_2_pd_fp1",
+      "genero": "opcao",
+      "id": 21
     }
   ]
 }
