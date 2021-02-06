@@ -129,6 +129,36 @@
       "urlIMDb": "https://www.imdb.com/title/tt3661210/?ref_=hm_fanfav_tt_3_pd_fp1",
       "genero": "opcao",
       "id": 15
+    },
+    {
+      "titulo": "Ataque dos Titãs",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+      "nota": 8.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2560140/?ref_=hm_fanfav_tt_4_pd_fp1",
+      "genero": "opcao",
+      "id": 16
+    },
+    {
+      "titulo": "O Gambito da Rainha",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-05T03:00:00.000Z",
+      "descricao": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.",
+      "nota": 8.6,
+      "urlIMDb": "https://www.imdb.com/title/tt10048342/?ref_=hm_fanfav_tt_5_pd_fp1",
+      "genero": "opcao",
+      "id": 17
+    },
+    {
+      "titulo": "Quo vadis, Aida?",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMGU0MTA3MjQtM2YyZC00MDhlLTkxYTUtMjYzMTY0NzM2Yjc5XkEyXkFqcGdeQXVyNjAyNTIzOTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "Aida is a translator for the UN in the small town of Srebrenica. When the Serbian army takes over the town, her family is among the thousands of citizens looking for shelter in the UN camp.",
+      "nota": 7.2,
+      "urlIMDb": "https://www.imdb.com/title/tt8633462/?ref_=hm_fanfav_tt_6_pd_fp1",
+      "genero": "opcao",
+      "id": 18
     }
   ]
 }
