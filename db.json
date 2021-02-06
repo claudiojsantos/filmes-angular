@@ -189,6 +189,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt2948372/?ref_=hm_fanfav_tt_2_pd_fp1",
       "genero": "opcao",
       "id": 21
+    },
+    {
+      "titulo": "Master",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYWQxODNlMjktNjU3Yi00OTFmLTgyOTgtZDVhNDY5NzMwMmYwXkEyXkFqcGdeQXVyMTIwNjE1MTk0._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-06T03:00:00.000Z",
+      "descricao": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
+      "nota": 7.2,
+      "urlIMDb": "https://www.imdb.com/title/tt10579952/?ref_=hm_fanfav_tt_9_pd_fp1",
+      "genero": "opcao",
+      "id": 22
+    },
+    {
+      "titulo": "O Tigre Branco",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-11T03:00:00.000Z",
+      "descricao": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+      "nota": 7.2,
+      "urlIMDb": "https://www.imdb.com/title/tt6571548/?ref_=hm_fanfav_tt_10_pd_fp1",
+      "genero": "opcao",
+      "id": 23
     }
   ]
 }

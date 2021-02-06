@@ -13,12 +13,13 @@ export class AlertaComponent implements OnInit {
     descricao: 'Seu registro foi cadastrado com sucesso!!!',
     btnSucesso: 'Ok',
     btnCancelar: 'Cancelar',
-    corBtn: 'primary',
+    corBtnSucesso: 'accent',
+    corBtnCancelar: 'warn',
     possuiBtnFechar: false
   } as Alerta
 
   constructor(public dialogRef: MatDialogRef<AlertaComponent>,
-    @Inject(MAT_DIALOG_DATA) public data: any) { }
+    @Inject(MAT_DIALOG_DATA) public data: Alerta) { }
 
   ngOnInit() {
     if (this.data) {
@@ -26,7 +27,8 @@ export class AlertaComponent implements OnInit {
       this.alerta.descricao = this.data.descricao || this.alerta.descricao
       this.alerta.btnSucesso = this.data.btnSucesso || this.alerta.btnSucesso
       this.alerta.btnCancelar = this.data.btnCancelar || this.alerta.btnCancelar
-      this.alerta.corBtn = this.data.corBtn || this.alerta.corBtn
+      this.alerta.corBtnSucesso = this.data.corBtnSucesso || this.alerta.corBtnSucesso
+      this.alerta.corBtnCancelar = this.data.corBtnCancelar || this.alerta.corBtnCancelar
       this.alerta.possuiBtnFechar = this.data.possuiBtnFechar || this.alerta.possuiBtnFechar
     }
   }

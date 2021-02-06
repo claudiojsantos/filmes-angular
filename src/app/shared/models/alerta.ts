@@ -3,6 +3,7 @@ export interface Alerta {
   descricao?: string;
   btnSucesso?: string;
   btnCancelar?: string;
-  corBtn?: string;
+  corBtnSucesso?: string;
+  corBtnCancelar?: string;
   possuiBtnFechar?: boolean;
 }

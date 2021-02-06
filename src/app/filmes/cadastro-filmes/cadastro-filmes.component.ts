@@ -62,10 +62,11 @@ export class CadastroFilmesComponent implements OnInit {
         data: {
           btnSucesso: 'Ir para a listagem',
           btnCancelar: 'Cadastrar um novo filme',
+          corBtnCancelar: 'primary',
           possuiBtnFechar: true
         } as Alerta
       }
-      const dialogRef = this.dialog.open(AlertaComponent)
+      const dialogRef = this.dialog.open(AlertaComponent, config)
     }, () => {
       alert('ERRO AO SALVAR')
     })
