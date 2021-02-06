@@ -209,6 +209,16 @@
       "urlIMDb": "https://www.imdb.com/title/tt6571548/?ref_=hm_fanfav_tt_10_pd_fp1",
       "genero": "opcao",
       "id": 23
+    },
+    {
+      "titulo": "Bridgerton",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BYjIxMzZhMTMtNDQ1Mi00OTMwLTk2M2ItYzA0YmNjNDFlOTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-02-09T03:00:00.000Z",
+      "descricao": "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family",
+      "nota": 7.3,
+      "urlIMDb": "https://www.imdb.com/title/tt8740790/?ref_=hm_fanfav_tt_11_pd_fp1",
+      "genero": "opcao",
+      "id": 24
     }
   ]
 }
