@@ -9,12 +9,23 @@ import { Filme } from 'src/app/shared/models/filme';
 })
 export class ListagemFilmesComponent implements OnInit {
 
-  filmes: Filme[]
+  readonly qtdPorPagina = 4
+  filmes: Filme[] = []
+  pagina = 0
 
   constructor(private filmesService: FilmesService) { }
 
-  ngOnInit() {
-    this.filmesService.listar().subscribe((filmes: Filme[]) => this.filmes = filmes)
+  ngOnInit(): void {
+    this.listaFilmes()
+  }
+
+  onScroll(): void {
+    this.listaFilmes()
+  }
+
+  private listaFilmes(): void {
+    this.pagina++
+    this.filmesService.listar(this.pagina, this.qtdPorPagina).subscribe((filmes: Filme[]) => this.filmes.push(...filmes))
   }
 
 }
