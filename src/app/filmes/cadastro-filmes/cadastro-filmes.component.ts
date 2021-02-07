@@ -28,6 +28,8 @@ export class CadastroFilmesComponent implements OnInit {
     return this.cadastro.controls
   }
 
+
+
   ngOnInit() {
 
     this.cadastro = this.fb.group({
